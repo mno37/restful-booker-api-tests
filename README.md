@@ -10,10 +10,10 @@ Automated API test suite for Restful-Booker, a hotel booking API.
   - Read (GET)
   - Update (PUT, PATCH)
   - Delete (DELETE)
+- Negative test cases (400, 403, 404)
 
 ## Planned Coverage
 
-- Negative test cases (400, 403, 404)
 - Query parameters (filtering bookings)
 
 ## Tools
