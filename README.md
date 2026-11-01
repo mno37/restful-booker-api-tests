@@ -2,7 +2,7 @@
 
 Automated API test suite for Restful-Booker, a hotel booking API.
 
-## Planned Coverage
+## Coverage
 
 - Authentication (token-based login)
 - CRUD operations:
@@ -10,6 +10,9 @@ Automated API test suite for Restful-Booker, a hotel booking API.
   - Read (GET)
   - Update (PUT, PATCH)
   - Delete (DELETE)
+
+## Planned Coverage
+
 - Negative test cases (400, 403, 404)
 - Query parameters (filtering bookings)
 
